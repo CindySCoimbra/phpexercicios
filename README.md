@@ -13,7 +13,7 @@
   <details>
     <summary> More aboult  </summary>
       <ul>
-        <li> Hi! I'm a student of systems analysis and this is my repository the class Systems Development class at Fatec</li>
+        <li> Hi! I'm a student of systems analysis and this is my repository the Systems Development class at Fatec</li>
         <li> Teacher: Alesssandra A. Silva</li>
       </ul>
   </details>
